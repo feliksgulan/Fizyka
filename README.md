@@ -28,11 +28,11 @@ Program pyta o I0, azot albo tlen, kąt i odległość. Potem liczy dla fal od 4
 
 ## Zadanie 3
 
-Są ustalone wartości I0=1, azot, kąt 0.8, odległość 1. Podajesz dwa kolory i program mówi który ma większe natężenie.
+Są ustalone wartości I0=1, azot, kąt 0.8, odległość 1. Podaje się dwa kolory i program mówi który ma większe natężenie.
 
 ## Zadanie 4
 
-I0=1, kąt 1, odległość 1, lambda jak czerwony (7e-7). Wybierasz cząsteczkę z listy i program wypisuje natężenie. Liczy przez funkcję natezenie2 gdzie n jest na sztywno 1.00045.
+I0=1, kąt 1, odległość 1, lambda jak czerwony (7e-7). Wybiera się cząsteczkę z listy i program wypisuje natężenie. Liczy przez funkcję natezenie2 gdzie n jest na sztywno 1.00045.
 
 ## Pliki
 
